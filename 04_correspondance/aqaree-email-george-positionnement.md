@@ -1,6 +1,8 @@
 # Aqaree — Email to George (positioning, comparison basis, next steps)
 
-Status: draft, ready to send once `[X weeks]`, the deliverables list and `[date]` are filled in.
+Status: draft, ready to send once `[X weeks]` and the deliverables list are filled in.
+No date placeholder: every version now asks George when *he* expects to be able to answer,
+rather than imposing a deadline. A date he sets himself is one he is far more likely to honour.
 
 ---
 
@@ -26,7 +28,7 @@ At our first meeting you were clear that you were impressed by what we'd present
 
 We're ready to continue — to answer questions within reasonable confidentiality limits, share references, and give full visibility into what has been delivered so far. What would help us most now is a clear read on whether there is a genuine possibility of moving forward together.
 
-If yes, we'll maintain our current level of commitment and proceed with the next steps. If another partner has been selected, we'd simply appreciate hearing it directly, so we can close the process cleanly and reallocate our team. Could we agree on a decision and next steps by **[date]**?
+If yes, we'll maintain our current level of commitment and proceed with the next steps. If another partner has been selected, we'd simply appreciate hearing it directly, so we can close the process cleanly and reallocate our team. Could you let us know when you expect to be in a position to give us an answer? Even an approximate timeframe would help us plan our team accordingly.
 
 I'd rather we were straightforward with each other than spend more of one another's time on a process that isn't going anywhere.
 
@@ -51,7 +53,7 @@ Two points of context before the comparison is finalised.
 
 First, on the basis of comparison. Over the past [X weeks] Ikrame and I have delivered [deliverables], which already forms a usable foundation for Aqaree's growth. Our pricing was adjusted substantially to support Mohamed's project, so a lower retainer elsewhere most likely reflects a different scope rather than a better rate. We'd simply ask that the quotations be read on a like-for-like basis: scope, depth of strategic involvement, volume and quality of deliverables, and responsiveness. We also see Marka as complementary rather than competing — their strength is technology and build, ours is strategy, brand, growth and go-to-market.
 
-Second, on the decision. At our first meeting you were clear that you were impressed and keen for us to work together on Aqaree — that's a large part of why we committed as we did. Something appears to have shifted since, and if it has, I'd rather know what. We're ready to continue: answer questions, share references and give full visibility into the work delivered so far. What would help us most is a clear read on whether there's a genuine possibility of working together. If yes, we'll maintain our current level of commitment. If another partner has been selected, we'd appreciate hearing it directly so we can close the process cleanly. Could we agree on a decision and next steps by **[date]**? I'd rather we were straightforward with each other than spend more of one another's time on a process that isn't going anywhere.
+Second, on the decision. At our first meeting you were clear that you were impressed and keen for us to work together on Aqaree — that's a large part of why we committed as we did. Something appears to have shifted since, and if it has, I'd rather know what. We're ready to continue: answer questions, share references and give full visibility into the work delivered so far. What would help us most is a clear read on whether there's a genuine possibility of working together. If yes, we'll maintain our current level of commitment. If another partner has been selected, we'd appreciate hearing it directly so we can close the process cleanly. Could you let us know when you expect to be able to give us an answer? I'd rather we were straightforward with each other than spend more of one another's time on a process that isn't going anywhere.
 
 For clarity: unless otherwise agreed in writing, the studies, frameworks, analyses, concepts and creative assets we've developed remain our intellectual property, and we'd be glad for them to transfer to Aqaree as part of a signed engagement.
 
@@ -77,7 +79,7 @@ What changed from the original draft, and why:
 ### Before sending
 
 1. **Fill in `[X weeks]` and the deliverables list.** Specifics carry the value argument: "3 months, 11 meetings, a market study, a positioning framework and two prototypes" is far stronger than "significant time and effort."
-2. **Fill in `[date]`.** A deadline without a date is not a deadline. Give 5–7 working days.
+2. **Ask for his timeframe rather than setting one.** The email asks when he expects to be able to answer. A date he commits to himself carries more weight than one imposed on him — and it avoids the awkwardness of an ultimatum.
 3. **Decide on the AI paragraph.** Keep it only if the subject was actually raised. If nobody mentioned it, including it plants a doubt that wasn't there — cut it and the email is stronger.
 4. **Check the IP clause against anything already signed** (NDA, letter of intent, purchase order). If a document already assigns IP, this paragraph contradicts it and should be removed.
 
@@ -124,7 +126,7 @@ I'm happy to keep following your process: answer questions within reasonable con
 
 What I'd ask in return is clarity on direction. If there's a genuine intention to move forward with us, we'll continue with the same commitment and energy. If the decision has effectively been made in favour of another vendor, I'd much rather know now than keep allocating significant resources to an evaluation with no realistic path forward — in which case we'd close the discussion respectfully and redirect our team.
 
-Could you let me know where things stand by **[date]**?
+Could you let us know when you expect to be in a position to give us an answer? Even an approximate timeframe would help us plan accordingly.
 
 I'd rather we were straightforward with each other than spend more of one another's time on a process that isn't going anywhere.
 
@@ -162,7 +164,7 @@ so a skim reader can find the ask. Length 700 → 470 words.
 - **Version C** — fuller argument, when the AI question and the scope comparison both
   need answering in the same message. Closest in content to the long draft.
 
-All three need `[date]` filled in, and all three carry the same IP clause — check it
+All three ask George for his own timeframe rather than imposing a date, and all three carry the same IP clause — check it
 against anything already signed before sending.
 
 ---
@@ -214,7 +216,7 @@ Marka's strength is technology and build; ours is strategy, positioning, brand, 
 
 At our first meeting you were clear that you were impressed and keen for us to work together. Something appears to have shifted since, and if it has, I'd rather know what. If there's a concern about our scope, our pricing or our way of working, say it plainly and I'll address it.
 
-Could you let me know where things stand by **[date]**? If we're moving forward, we'll continue with the same commitment. If another vendor has been chosen, I'd rather hear it now than keep allocating resources to a process without a path — and we'd close respectfully.
+Could you let us know when you expect to be in a position to give us an answer? Even an approximate timeframe would help us plan accordingly. If we're moving forward, we'll continue with the same commitment. If another vendor has been chosen, I'd rather hear it now than keep allocating resources to a process without a path — and we'd close respectfully.
 
 Unless otherwise formally agreed, the studies, frameworks, analyses, concepts and creative assets we've developed remain our intellectual property, and we'd be glad for them to transfer as part of a signed agreement.
 
@@ -238,7 +240,7 @@ D is the recommended send. Length itself carries a signal here: a shorter messag
 someone with a strong position reads better than a long one, which can look like
 over-justification.
 
-All versions need `[date]` filled in, and all carry the same IP clause — check it against
+All versions ask George for his own timeframe rather than imposing a date, and all carry the same IP clause — check it against
 anything already signed first. Drop the bold formatting if sending via WhatsApp or chat.
 
 ---
@@ -262,7 +264,7 @@ We also see Marka as complementary rather than competing — technology, tooling
 
 One question, asked in good faith: at our first meeting you were very positive about working together, and that encouraged us to commit as we did. If something has changed since, we'd much rather understand it than guess at it. If there's any concern about our scope, our pricing or our approach, we'd genuinely welcome hearing it — those things are far easier to address directly.
 
-Would it be possible to have a sense of where things stand by **[date]**? If there's an intention to move forward, we'll continue with the same energy. If the direction has gone elsewhere, we'd fully understand — we'd simply appreciate knowing, so we can plan our team accordingly.
+Could you let us know when you expect to be in a position to give us an answer? Even an approximate timeframe would help — it would let us plan our team accordingly. If there's an intention to move forward, we'll continue with the same energy. If the direction has gone elsewhere, we'd fully understand — we'd simply appreciate knowing, so we can plan our team accordingly.
 
 On the work already shared: unless otherwise agreed in writing it remains our intellectual property, and it would be our pleasure to transfer it to Aqaree as part of a signed engagement.
 
@@ -280,7 +282,7 @@ Best regards,
 | "the useful question isn't whether it's cheaper, but what sits inside it" | "a lower figure elsewhere may simply reflect a different scope" — same point, no edge |
 | "Something appears to have shifted, and if it has, I'd rather know what" | "One question, asked in good faith… we'd rather understand it than guess" — names the intent, removes the implied accusation |
 | "I'd rather hear it now than keep allocating resources to a process without a path" | "we'd fully understand — we'd simply appreciate knowing" — gives him a graceful exit |
-| "Could you let me know by [date]?" | "Would it be possible to have a sense of where things stand by [date]?" |
+| A date imposed on him | "when you expect to be in a position to give us an answer" — he sets the date, so he owns it |
 | "I'd rather we were straightforward with each other" | Removed — it implied he hasn't been |
 | Requests framed as statements | Framed as hopes and questions throughout |
 
@@ -304,5 +306,5 @@ soft request rather than a deadline, so if there's no answer, plan to follow up 
 | D | ~300 words | Firm, concise | A clear answer matters most |
 | E | ~360 words | Diplomatic | The relationship matters most |
 
-All need `[date]` filled in. All carry the IP clause — check it against anything already
+None imposes a date — each asks George when he expects to be able to answer. All carry the IP clause — check it against anything already
 signed. Drop the bold formatting if sending via WhatsApp or chat.
