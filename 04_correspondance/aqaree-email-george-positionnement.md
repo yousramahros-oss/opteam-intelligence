@@ -264,7 +264,7 @@ We also see Marka as complementary rather than competing — technology, tooling
 
 One question, asked in good faith: at our first meeting you were very positive about working together, and that encouraged us to commit as we did. If something has changed since, we'd much rather understand it than guess at it. If there's any concern about our scope, our pricing or our approach, we'd genuinely welcome hearing it — those things are far easier to address directly.
 
-Could you let us know when you expect to be in a position to give us an answer? Even an approximate timeframe would help — it would let us plan our team accordingly. If there's an intention to move forward, we'll continue with the same energy. If the direction has gone elsewhere, we'd fully understand — we'd simply appreciate knowing, so we can plan our team accordingly.
+Could you let us know when you expect to be in a position to give us an answer? Even an approximate timeframe would help — it would let us plan our team accordingly. If there's an intention to move forward, we'll continue with the same energy. If the direction has gone elsewhere, we'd fully understand — we'd simply appreciate knowing.
 
 On the work already shared: unless otherwise agreed in writing it remains our intellectual property, and it would be our pleasure to transfer it to Aqaree as part of a signed engagement.
 
