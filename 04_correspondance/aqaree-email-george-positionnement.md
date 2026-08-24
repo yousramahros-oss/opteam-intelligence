@@ -28,6 +28,8 @@ We're ready to continue — to answer questions within reasonable confidentialit
 
 If yes, we'll maintain our current level of commitment and proceed with the next steps. If another partner has been selected, we'd simply appreciate hearing it directly, so we can close the process cleanly and reallocate our team. Could we agree on a decision and next steps by **[date]**?
 
+I'd rather we were straightforward with each other than spend more of one another's time on a process that isn't going anywhere.
+
 One point for clarity rather than friction: unless otherwise agreed in writing, the studies, strategic frameworks, analyses, concepts, methodologies and creative assets we've developed remain our intellectual property. We'd be glad for that to transfer to Aqaree as part of a signed engagement.
 
 Thank you for your time and consideration — we're raising this in the interest of clarity for both sides.
