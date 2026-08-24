@@ -296,6 +296,54 @@ soft request rather than a deadline, so if there's no answer, plan to follow up 
 - Relationship matters *and* the answer is genuinely urgent → send **E**, then follow up
   after the date with a two-line note referencing it.
 
+## Version F — firm and diplomatic (~350 words) — RECOMMENDED
+
+Courtesy in the framing, precision in the substance. The firmness comes from stating our
+own decisions rather than making demands of him.
+
+**Subject: Aqaree — where we stand, and what we need to know**
+
+Hi George,
+
+Thank you for setting out the process clearly. We're following it, and we trust you to review everything fairly. I'd like to be equally clear about our side.
+
+Over the past month we've met several times and delivered concepts, strategic work, prototypes and the V2 direction. That work isn't a proposal awaiting a decision — it's a foundation Aqaree can already build on.
+
+We understand management needs to compare quotations, and that's right. We'd only ask that the comparison be like for like: scope, depth of strategic involvement, volume of work, responsiveness and seniority. Our pricing was set well below our usual level because this is Mohamed's project and we wanted to back it properly. A lower figure elsewhere will reflect a different scope rather than a better rate — and we're glad to detail ours line by line to make that easy to verify.
+
+Marka's strength is technology, tooling and build; ours is strategy, positioning, brand, growth and go-to-market. The two aren't interchangeable. And while AI helps us execute faster, the research, analysis and strategic decisions are ours — we'll gladly walk anyone through the reasoning behind any deliverable.
+
+One question, asked in good faith. At our first meeting you were very positive about working together, and that's largely why we committed as we did. If something has changed since, we'd rather understand it than guess. If there's a concern about our scope, our pricing or our approach, tell us plainly — that's far easier to address than something we have to infer.
+
+Could you let us know when you expect to be in a position to give us an answer? We'll hold our team's capacity for Aqaree until then. Beyond that we'd need to commit it elsewhere, which we'd genuinely rather not do — so a clear read either way is valuable to us, including a no.
+
+On the work already shared: unless otherwise agreed in writing it remains our intellectual property, and we'd be pleased to transfer it to Aqaree as part of a signed engagement.
+
+Said with respect, George. Ikrame and I have approached this throughout with Aqaree's interests genuinely at heart, and we appreciate the time you're giving it.
+
+Best regards,
+[Name]
+
+---
+
+## Editorial notes — Version F
+
+Three devices carry the firmness without any aggression:
+
+1. **"We'll hold our team's capacity for Aqaree until then. Beyond that we'd need to commit
+   it elsewhere."** A real consequence, but it describes *our* operations rather than his
+   behaviour. It cannot be read as pressure, yet it sets a boundary.
+2. **"including a no."** Signalling that a refusal is survivable makes the position
+   stronger, not weaker — it is the party who fears the no who negotiates from weakness.
+3. **"A lower figure elsewhere will reflect a different scope"** — indicative, not
+   conditional. Version E hedged with "may simply reflect". Here the fact is asserted and
+   the generosity sits elsewhere, in the offer to detail the quote line by line.
+
+The one commitment it creates: if he names a date, hold the capacity until then and follow
+up on that date. The line only works if it is true.
+
+---
+
 ## Version index
 
 | Version | Length | Register | Use when |
@@ -305,6 +353,7 @@ soft request rather than a deadline, so if there's no answer, plan to follow up 
 | C | ~500 words | Firm, full argument | AI question and scope comparison both need answering |
 | D | ~300 words | Firm, concise | A clear answer matters most |
 | E | ~360 words | Diplomatic | The relationship matters most |
+| **F** | **~350 words** | **Firm and diplomatic** | **Default. Both the answer and the relationship matter.** |
 
 None imposes a date — each asks George when he expects to be able to answer. All carry the IP clause — check it against anything already
 signed. Drop the bold formatting if sending via WhatsApp or chat.
