@@ -240,3 +240,69 @@ over-justification.
 
 All versions need `[date]` filled in, and all carry the same IP clause — check it against
 anything already signed first. Drop the bold formatting if sending via WhatsApp or chat.
+
+---
+
+## Version E — diplomatic (~360 words)
+
+Version D with the edges softened. Same substance, framed as hopes and questions rather
+than requests and observations.
+
+**Subject: Aqaree — a word on where we stand**
+
+Hi George,
+
+Thank you for setting out the process so clearly. We're following it, and we trust you to give everything a fair review. I'd just like to share a little context from our side.
+
+Over the past month we've met several times and delivered concepts, strategic work, prototypes and the V2 direction. We're proud of it, and we hope it gives Aqaree a real foundation to build on rather than simply a proposal to consider.
+
+On the quotations, we completely understand that management needs to compare options — that's the right thing to do. Our only hope is that the comparison can be made on a like-for-like basis: scope, depth of strategic involvement, volume of work, responsiveness and seniority. Our pricing was already set well below our usual level because this is Mohamed's project and we wanted to back it properly, so a lower figure elsewhere may simply reflect a different scope. We'd gladly clarify anything in our proposal that would help the comparison.
+
+We also see Marka as complementary rather than competing — technology, tooling and build are genuinely your teams' strength, while strategy, positioning, brand, growth and go-to-market are ours. And while AI helps us work faster, the research, analysis and strategic thinking behind the work are our own; we'd be happy to walk anyone through the reasoning behind any deliverable.
+
+One question, asked in good faith: at our first meeting you were very positive about working together, and that encouraged us to commit as we did. If something has changed since, we'd much rather understand it than guess at it. If there's any concern about our scope, our pricing or our approach, we'd genuinely welcome hearing it — those things are far easier to address directly.
+
+Would it be possible to have a sense of where things stand by **[date]**? If there's an intention to move forward, we'll continue with the same energy. If the direction has gone elsewhere, we'd fully understand — we'd simply appreciate knowing, so we can plan our team accordingly.
+
+On the work already shared: unless otherwise agreed in writing it remains our intellectual property, and it would be our pleasure to transfer it to Aqaree as part of a signed engagement.
+
+Thank you, George. Ikrame and I have approached this throughout with Aqaree's interests genuinely at heart, and we appreciate the time you're giving it.
+
+Best regards,
+[Name]
+
+---
+
+## Editorial notes — Version E
+
+| Version D | Version E |
+|---|---|
+| "the useful question isn't whether it's cheaper, but what sits inside it" | "a lower figure elsewhere may simply reflect a different scope" — same point, no edge |
+| "Something appears to have shifted, and if it has, I'd rather know what" | "One question, asked in good faith… we'd rather understand it than guess" — names the intent, removes the implied accusation |
+| "I'd rather hear it now than keep allocating resources to a process without a path" | "we'd fully understand — we'd simply appreciate knowing" — gives him a graceful exit |
+| "Could you let me know by [date]?" | "Would it be possible to have a sense of where things stand by [date]?" |
+| "I'd rather we were straightforward with each other" | Removed — it implied he hasn't been |
+| Requests framed as statements | Framed as hopes and questions throughout |
+
+### The trade-off
+
+Diplomatic messages are easier to reply to and also easier to defer. The date in E is a
+soft request rather than a deadline, so if there's no answer, plan to follow up once.
+
+- Need a firm answer more than a warm relationship → **D**
+- Need to keep the relationship intact whatever the outcome → **E**
+- Relationship matters *and* the answer is genuinely urgent → send **E**, then follow up
+  after the date with a two-line note referencing it.
+
+## Version index
+
+| Version | Length | Register | Use when |
+|---|---|---|---|
+| A | ~430 words | Balanced | First approach on the subject |
+| B | ~280 words | Balanced, short | Skim reader, or a second follow-up |
+| C | ~500 words | Firm, full argument | AI question and scope comparison both need answering |
+| D | ~300 words | Firm, concise | A clear answer matters most |
+| E | ~360 words | Diplomatic | The relationship matters most |
+
+All need `[date]` filled in. All carry the IP clause — check it against anything already
+signed. Drop the bold formatting if sending via WhatsApp or chat.
