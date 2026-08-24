@@ -22,6 +22,8 @@ It's also worth saying that we see Marka as complementary rather than competing.
 
 On method: our work is grounded in research, analysis and creative judgment, developed and validated by us. AI helps us move faster, as any tool does; it doesn't replace the thinking behind the work. We're happy to walk you through how any specific deliverable was produced.
 
+At our first meeting you were clear that you were impressed by what we'd presented, and you were keen for us to work with you on Aqaree. That's a large part of why we committed the way we did in the weeks that followed. Something appears to have shifted since then, and if it has, I'd genuinely rather know what. If there's a concern about our scope, our pricing or our way of working, say it plainly and I'll address it directly.
+
 We're ready to continue — to answer questions within reasonable confidentiality limits, share references, and give full visibility into what has been delivered so far. What would help us most now is a clear read on whether there is a genuine possibility of moving forward together.
 
 If yes, we'll maintain our current level of commitment and proceed with the next steps. If another partner has been selected, we'd simply appreciate hearing it directly, so we can close the process cleanly and reallocate our team. Could we agree on a decision and next steps by **[date]**?
@@ -47,7 +49,7 @@ Two points of context before the comparison is finalised.
 
 First, on the basis of comparison. Over the past [X weeks] Ikrame and I have delivered [deliverables], which already forms a usable foundation for Aqaree's growth. Our pricing was adjusted substantially to support Mohamed's project, so a lower retainer elsewhere most likely reflects a different scope rather than a better rate. We'd simply ask that the quotations be read on a like-for-like basis: scope, depth of strategic involvement, volume and quality of deliverables, and responsiveness. We also see Marka as complementary rather than competing — their strength is technology and build, ours is strategy, brand, growth and go-to-market.
 
-Second, on the decision. We're ready to continue: answer questions, share references and give full visibility into the work delivered so far. What would help us most is a clear read on whether there's a genuine possibility of working together. If yes, we'll maintain our current level of commitment. If another partner has been selected, we'd appreciate hearing it directly so we can close the process cleanly. Could we agree on a decision and next steps by **[date]**?
+Second, on the decision. At our first meeting you were clear that you were impressed and keen for us to work together on Aqaree — that's a large part of why we committed as we did. Something appears to have shifted since, and if it has, I'd rather know what. We're ready to continue: answer questions, share references and give full visibility into the work delivered so far. What would help us most is a clear read on whether there's a genuine possibility of working together. If yes, we'll maintain our current level of commitment. If another partner has been selected, we'd appreciate hearing it directly so we can close the process cleanly. Could we agree on a decision and next steps by **[date]**? I'd rather we were straightforward with each other than spend more of one another's time on a process that isn't going anywhere.
 
 For clarity: unless otherwise agreed in writing, the studies, frameworks, analyses, concepts and creative assets we've developed remain our intellectual property, and we'd be glad for them to transfer to Aqaree as part of a signed engagement.
 
@@ -108,6 +110,12 @@ Marka has real strength in technology, tooling and website development — areas
 
 AI is one of the tools we use for speed of execution. The research, competitive analysis, positioning, strategic decisions, concepts, creative direction and recommendations are developed and validated by us — every study and every strategic choice has a rationale behind it. I'm glad to walk you or the team through the thinking behind any deliverable, including the V2 prototype. Technology should accelerate expertise, not replace it.
 
+**What seems to have changed**
+
+At our first meeting you were clear that you were impressed by what we'd presented, and you were keen for us to work with you on Aqaree. That's a large part of why we committed the way we did in the weeks that followed.
+
+Something appears to have shifted since then, and if it has, I'd genuinely rather know what. If there's a concern about our scope, our pricing or our way of working, say it plainly and I'll address it directly. If the direction has changed for reasons that have nothing to do with us, that's understandable too — but I'd rather hear it now than read it between the lines.
+
 **What I'm asking for**
 
 I'm happy to keep following your process: answer questions within reasonable confidentiality limits, share references, and give full visibility on everything produced so far.
@@ -115,6 +123,8 @@ I'm happy to keep following your process: answer questions within reasonable con
 What I'd ask in return is clarity on direction. If there's a genuine intention to move forward with us, we'll continue with the same commitment and energy. If the decision has effectively been made in favour of another vendor, I'd much rather know now than keep allocating significant resources to an evaluation with no realistic path forward — in which case we'd close the discussion respectfully and redirect our team.
 
 Could you let me know where things stand by **[date]**?
+
+I'd rather we were straightforward with each other than spend more of one another's time on a process that isn't going anywhere.
 
 One point of clarity, not friction: unless otherwise formally agreed, the studies, strategic frameworks, analyses, concepts, methodologies and creative assets we've developed and shared remain our intellectual property. We'd be glad for them to transfer to Aqaree as part of a signed agreement.
 
@@ -152,3 +162,30 @@ so a skim reader can find the ask. Length 700 → 470 words.
 
 All three need `[date]` filled in, and all three carry the same IP clause — check it
 against anything already signed before sending.
+
+---
+
+## Note — the "what changed since the first meeting" passage
+
+Added to all three versions. It is the strongest point in the email, because it asks
+George to account for his own stated position rather than asking him to accept ours.
+
+Wording matters here. Two rules kept it safe:
+
+1. **Framed as a question, not an accusation.** "Something appears to have shifted, and
+   I'd rather know what" is hard to argue with. "You told us you wanted to work with us,
+   so what changed?" is easy to argue with, and forces George to defend himself instead
+   of answering.
+2. **It claims enthusiasm, not commitment.** The passage says he was impressed and keen —
+   not that he made a promise. If the enthusiasm was verbal and in a room, he can reframe
+   a claimed commitment ("I said the work was impressive, not that the decision was made")
+   but he cannot really deny having been enthusiastic.
+
+Before sending, sanity-check: would you be comfortable with George forwarding this
+paragraph to Mohamed? If yes, it's correctly worded. If it makes you wince, soften it
+further rather than cutting it — the question deserves to be asked.
+
+The closing line — "I'd rather we were straightforward with each other than spend more of
+one another's time on a process that isn't going anywhere" — sits immediately after the
+date in every version, so the deadline reads as a practical request rather than an
+ultimatum.
