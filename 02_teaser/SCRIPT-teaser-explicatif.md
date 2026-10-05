@@ -50,7 +50,72 @@
 
 ---
 
-## 2. LE SCRIPT — 8 PLANS
+## 1★. COUCHE COMÉDIE — VO vacharde + gags (★ LA VERSION À UTILISER ★)
+
+> **Ton visé :** humour noir, second degré, vache — façon Simpson mais plus méchant.
+> **Moteur comique :** une voix-off ultra-sérieuse et pompeuse qui vend des horreurs
+> comme du luxe. Plus c'est grave dit, plus c'est drôle. (Le visuel reste celui,
+> ultra-détaillé, de la section 2 ci-dessous ; ici on ajoute la VO et les gags.)
+
+### Les 3 armes comiques (à garder sur TOUT le teaser)
+1. **Running gag du fouet** — Grognon ponctue chaque transition d'un CLAC sur
+   Sanplerien en arrière-plan, l'air de rien (cruauté de fond façon Simpson).
+2. **La VO qui vend l'horreur comme du luxe** (second degré permanent).
+3. **L'escalade** — ça commence « journée chic normale », ça finit en chaos absurde.
+
+### VO + gags, plan par plan
+
+**P0 (noir)** — « Hrrrr… » *(raclement de gorge)*
+
+**P1 (limo)** — VO grave et solennelle :
+> « Dans la famille la plus riche du monde… l'argent ne fait pas le bonheur. »
+> *(beat)* « Il fait bien mieux. Il fait souffrir les autres. »
+> 🎭 GAG : la limo est si longue qu'elle franchit encore le portail 6 s plus tard.
+
+**P2 (Grognon)** :
+> « Voici Grognon. Milliardaire. Tyran. Et, accessoirement, père. »
+> 🎭 GAG : il fait « coucou » d'une main à Giovanna, plein d'amour, pendant que son
+> autre gantelet fouette Sanplerien hors-champ — CLAC — sans tourner la tête (il n'a
+> pas d'yeux de toute façon).
+
+**P3 (Giovanna)** :
+> « Sa fille chérie. Un petit ange. Un petit trésor. Un petit quintal. »
+> 🎭 GAG : elle ne descend pas, elle TOMBE et ROULE comme un rocher, écrase un massif
+> de roses. Grognon essuie une larme de fierté.
+
+**P4 (Giovanni)** :
+> « Giovanni est le plus beau garçon de l'école. C'est lui qui l'a décidé. »
+> 🎭 GAG : il embrasse son reflet, le miroir se fissure ; étincelle sur sa dent —
+> ting — un élève s'écroule au fond, aveuglé.
+
+**P5 (Giovannia)** :
+> « Giovannia, la plus populaire. Et la seule, dans ce teaser, à être objectivement
+> mignonne. »
+> 🎭 GAG : elle passe au ralenti, pétales, un couloir entier de bébés tombe en
+> pâmoison.
+
+**P6 (Giovanna jalouse)** :
+> « Giovanna est persuadée que Giovanni l'aime. »
+> *(cut sec sur Giovanni qui mime un haut-le-cœur)*
+> « Giovanni, lui, a déjà changé d'école trois fois. »
+> → « GIOVANNNAAAAAAAA !! »
+
+**P7 (Sanplerien)** — le ton chute, l'air de rien :
+> « Ah. Et il y a Sanplerien. Le seul gentil de la famille. »
+> *(beat)* « C'est sûrement pour ça qu'ils l'aiment pas. »
+> « Il dort dans une cage, va à l'école en caddie, se fait fouetter pour un oui, pour
+> un non… » *(beat)* « …surtout pour rien. »
+> 🎭 GAG : ballotté à 120 km/h dans le caddie, il adresse un petit POUCE LEVÉ résigné
+> à la caméra. CLAC.
+
+**P8 (logo)** — « Hrrrr… » + CLAC + silence.
+> **GROGNON — La famille la plus dysfonctionnelle du monde.**
+> *(kicker, en petit, après un temps)* « À côté, la vôtre est parfaite. »
+> *Dernier souffle dans le noir : « …Giovannaaaa ? » — CLAC.*
+
+---
+
+## 2. LE SCRIPT — 8 PLANS (visuel détaillé)
 
 > Chaque plan = un **prompt IMAGE** (ultra détaillé) + un **prompt ANIMATION** (mouvement simple + son).
 > La **voix-off (VO)** grave de bande-annonce relie le tout et « explique » la famille.
