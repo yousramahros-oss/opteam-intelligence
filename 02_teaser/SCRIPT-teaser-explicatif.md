@@ -50,68 +50,74 @@
 
 ---
 
-## 1★. COUCHE COMÉDIE — VO vacharde + gags (★ LA VERSION À UTILISER ★)
+## 1★. TEASER — VERSION DÉFINITIVE (★ À UTILISER ★)
 
-> **Ton visé :** humour noir, second degré, vache — façon Simpson mais plus méchant.
-> **Moteur comique :** une voix-off ultra-sérieuse et pompeuse qui vend des horreurs
-> comme du luxe. Plus c'est grave dit, plus c'est drôle. (Le visuel reste celui,
-> ultra-détaillé, de la section 2 ci-dessous ; ici on ajoute la VO et les gags.)
+> Ton : humour noir, second degré, vache. Structure : **documentaire animalier de luxe
+> qui se fait saboter de l'intérieur**, jusqu'au chaos. Registres mixés : voix docu
+> (clinique) + visuels pub de luxe + inserts vlog/sous-titres de Giovanna + final en
+> réaction en chaîne muette.
+>
+> **Moteur comique** = fiche clinique glauque, dite à plat + *(beat)* + chute absurde,
+> pire, ou dark-mignon.
 
-### Les 3 armes comiques (à garder sur TOUT le teaser)
-1. **Running gag du fouet** — Grognon ponctue chaque transition d'un CLAC sur
-   Sanplerien en arrière-plan, l'air de rien (cruauté de fond façon Simpson).
-2. **La VO qui vend l'horreur comme du luxe** (second degré permanent).
-3. **L'escalade** — ça commence « journée chic normale », ça finit en chaos absurde.
+### Les armes comiques (sur tout le teaser)
+1. **Running gag du fouet** — Grognon ponctue les transitions d'un CLAC sur Sanplerien en fond, l'air de rien.
+2. **Gag des sous-titres** — chacun ne dit que son prénom ; les sous-titres « traduisent » une punchline vacharde.
+3. **Voix docu clinique sur visuels de pub de luxe** (le contraste = l'humour).
+4. **Escalade** — commence « docu chic », finit en chaos absurde.
+5. **Canon** : Grognon n'est PAS aveugle — yeux cachés sous le sourcil, il voit tout (mystère : homme ? reptilien ? son comptable ?).
 
-### VO + gags, plan par plan
+### Le teaser, plan par plan
 
-**P0 (noir)** — « Hrrrr… » *(raclement de gorge)*
+**P0 (noir)** — respiration rauque « Hrrrr ».
+> « Dieu a créé l'homme à son image. Puis il a vu les Grognon… et il a demandé un remboursement. »
+> *(titre doré, luxe : GROGNON)*
 
-**P1 (limo)** — VO grave et solennelle :
-> « Dans la famille la plus riche du monde… l'argent ne fait pas le bonheur. »
-> *(beat)* « Il fait bien mieux. Il fait souffrir les autres. »
-> 🎭 GAG : la limo est si longue qu'elle franchit encore le portail 6 s plus tard.
+**P1 — La meute** *(limo rose, ralenti sublime, god-rays)* :
+> « Une fortune bâtie sur trois piliers : le pétrole, l'évasion fiscale… et une crypto qui a ruiné 400 000 familles en un week-end. »
+> *(reveal : la limo rouillée, kitsch)* « Le bon goût, lui, ne figurait pas à l'héritage. »
 
-**P2 (Grognon)** :
-> « Voici Grognon. Milliardaire. Tyran. Et, accessoirement, père. »
-> 🎭 GAG : il fait « coucou » d'une main à Giovanna, plein d'amour, pendant que son
-> autre gantelet fouette Sanplerien hors-champ — CLAC — sans tourner la tête (il n'a
-> pas d'yeux de toute façon).
+**P2 — Le mâle dominant** *(Grognon, hero shot)* :
+> « Classification de l'espèce : inconnue. Sous le sourcil, personne n'a jamais regardé deux fois. Les survivants non plus. »
+> « On n'a jamais vu ses yeux. Lui, en revanche, voit tout. »
+> 🎭 Il tend la main à baiser, royal → CLAC dans son dos, sans tourner la tête.
+> « On lui a diagnostiqué de l'empathie, une fois. » *(beat)* « C'était une erreur de laboratoire. »
+> 📰 « Un bunker en Nouvelle-Zélande, une fusée privée, un taux d'imposition de zéro virgule zéro. »
+> 🦎 HOOK : le sourcil se soulève d'un millimètre → une pupille verticale de reptile fixe la caméra → SNAP. « …C'était sûrement la lumière. »
 
-**P3 (Giovanna)** :
-> « Sa fille chérie. Un petit ange. Un petit trésor. Un petit quintal. »
-> 🎭 GAG : elle ne descend pas, elle TOMBE et ROULE comme un rocher, écrase un massif
-> de roses. Grognon essuie une larme de fierté.
+**P3 — La femelle choyée** *(Giovanna, luxe ralenti)* :
+> « On ignore son âge. On ignore si elle grandit. On sait juste qu'elle a mangé sa jumelle in utero. » *(beat)* « Par gourmandise. »
+> 📱 *(vlog, filtre rose, cœurs)* « Giovannaaa » → **sous-titre :** *« placement de produit du jour : la misère des autres. (non sponsorisé) »*
+> 🎭 Elle roule hors de la limo, aplatit le jardinier. « Remplacé par une IA dès lundi. L'IA a démissionné. »
 
-**P4 (Giovanni)** :
-> « Giovanni est le plus beau garçon de l'école. C'est lui qui l'a décidé. »
-> 🎭 GAG : il embrasse son reflet, le miroir se fissure ; étincelle sur sa dent —
-> ting — un élève s'écroule au fond, aveuglé.
+**P4 — La parade** *(Giovanni, miroir)* :
+> « Le jeune mâle déploie sa plus belle parade : lui-même. »
+> « Giovanni a sauvé une vie, une fois. » *(beat)* « La sienne. Dans un miroir. »
+> « Giovanni. » → **sous-titre :** *« je me suis dragué. j'ai dit oui. »*
+> 🎭 Baiser au miroir → il explose. **ting** → un prof perd la vue. « Giovanni a trouvé ça flatteur. »
 
-**P5 (Giovannia)** :
-> « Giovannia, la plus populaire. Et la seule, dans ce teaser, à être objectivement
-> mignonne. »
-> 🎭 GAG : elle passe au ralenti, pétales, un couloir entier de bébés tombe en
-> pâmoison.
+**P5 — La convoitée** *(Giovannia)* :
+> « Onze cœurs brisés. Deux familles détruites. » *(beat)* « Elle est en CP. »
+> « Giovannia. » → **sous-titre :** *« j'ai vu ta story. j'ai prié pour toi. »*
+> Giovanni, fondu : « Giovanni. » → *« elle m'a parlé. »* — « Elle ne lui a pas parlé. »
 
-**P6 (Giovanna jalouse)** :
-> « Giovanna est persuadée que Giovanni l'aime. »
-> *(cut sec sur Giovanni qui mime un haut-le-cœur)*
-> « Giovanni, lui, a déjà changé d'école trois fois. »
-> → « GIOVANNNAAAAAAAA !! »
+**P6 — Le prédateur** *(Giovanna jalouse)* :
+> « Chez cette espèce, la jalousie ne se gère pas. Elle se facture aux assurances. »
+> « GIOVANNAAA !! » → **sous-titre :** *« JE BRÛLE L'ÉCOLE. ET JE DÉDUIS ÇA DES IMPÔTS. »*
 
-**P7 (Sanplerien)** — le ton chute, l'air de rien :
-> « Ah. Et il y a Sanplerien. Le seul gentil de la famille. »
-> *(beat)* « C'est sûrement pour ça qu'ils l'aiment pas. »
-> « Il dort dans une cage, va à l'école en caddie, se fait fouetter pour un oui, pour
-> un non… » *(beat)* « …surtout pour rien. »
-> 🎭 GAG : ballotté à 120 km/h dans le caddie, il adresse un petit POUCE LEVÉ résigné
-> à la caméra. CLAC.
+**P7 — Effondrement** *(réaction en chaîne muette, puis pause sur Sanplerien)* :
+> Giovanna charge → roule → explose Giovanni dans le miroir → l'éclat tranche la corde du caddie → Sanplerien décolle derrière la limo lancée. 📰 *(en fond, les domestiques-IA fuient avec des pancartes « ON DEMANDE L'ASILE »)*.
+> *(le ton s'adoucit)* « Et lui, c'est Sanplerien. L'aîné. Le seul gentil. »
+> « Pour Noël, il a eu une orange. » *(beat)* « En photo. »
+> « Il a reçu une lettre d'amour, une fois. Mauvaise adresse. » *(beat)* « Il l'a gardée quand même. »
+> 🎭 Catapulté vers un mur, radieux : « C'est le plus beau jour de ma vie. » CLAC.
+> « …La sélection naturelle reprend ses droits. »
 
-**P8 (logo)** — « Hrrrr… » + CLAC + silence.
-> **GROGNON — La famille la plus dysfonctionnelle du monde.**
-> *(kicker, en petit, après un temps)* « À côté, la vôtre est parfaite. »
-> *Dernier souffle dans le noir : « …Giovannaaaa ? » — CLAC.*
+**P8 — Logo** *(titre doré, fissuré, roussi)* :
+> « GROGNON. Un homme ? Un reptilien ? Son comptable ? » *(beat)* « On ne saura jamais. C'est mieux pour tout le monde. »
+> « Interdite dans quatre pays. Invitée d'honneur à Davos. »
+> **La famille la plus dysfonctionnelle du monde.**
+> Noir : « …Giovannaaaa ? » → *« on mange quoi ce soir ? »* — Sanplerien *(depuis la cage)* : « …moi ? » — Grognon : « Hrrrr. » — Sanplerien : « cool. » CLAC. Noir.
 
 ---
 
@@ -309,17 +315,19 @@ rebonds, "AAAAHH", un "CLAC !" sec de fouet hors-champ.
 
 **Table de montage :**
 
-| # | Plan | Durée | VO | Son perso | État |
+> VO = version définitive (§1★). Ci-dessous = repères courts pour le montage.
+
+| # | Plan | Durée | VO (repère) | Son perso | État |
 |---|------|-------|-----|-----------|------|
-| 0 | Noir | 4 s | — | « Hrrrr » + raclement | ⬜ |
-| 1 | Limo/portail | 6 s | « …la plus riche du monde… » | fanfare | ⬜ |
-| 2 | Grognon | 6 s | « …le père. » | « Hrrrr » | ✅ |
-| 3 | Giovanna | 7 s | « …la princesse. » | « Giovannaaaa » (graisseuse) | ✅ |
-| 4 | Giovanni | 6 s | « …le plus beau, d'après lui. » | « Giovanniii » | ⬜ |
-| 5 | Giovannia | 6 s | « …que tout le monde regarde. » | « Giovannia » | ⬜ |
-| 6 | Giovanna jalouse | 4 s | « …que personne ne regarde. » | « GIOVANNNAAAA !! » | ⬜ |
-| 7 | Sanplerien | 7 s | « …il y a lui. » | « AAAHH » + CLAC | ⬜ |
-| 8 | Logo | 5 s | « La famille la plus dysfonctionnelle du monde. » | « …Giovannaaaa ? » | ⬜ |
+| 0 | Noir | 4 s | « …remboursement. » | « Hrrrr » | ⬜ |
+| 1 | Limo/portail | 6 s | « …le crime d'origine / crypto… » | fanfare | ⬜ |
+| 2 | Grognon | 6 s | « …il voit tout » + 🦎 flash reptilien | « Hrrrr » | ✅ |
+| 3 | Giovanna | 7 s | « …mangé sa jumelle. Par gourmandise. » | « Giovannaaaa » (graisseuse) | ✅ |
+| 4 | Giovanni | 6 s | « …la sienne. Dans un miroir. » | « Giovanniii » | ⬜ |
+| 5 | Giovannia | 6 s | « …11 cœurs brisés. Elle est en CP. » | « Giovannia » | ⬜ |
+| 6 | Giovanna jalouse | 4 s | « …déduis ça des impôts. » | « GIOVANNNAAAA !! » | ⬜ |
+| 7 | Sanplerien | 7 s | « …une orange. En photo. » + chaos | « merci » + CLAC | ⬜ |
+| 8 | Logo | 5 s | « homme ? reptilien ? son comptable ? » | « …moi ? » → « cool. » | ⬜ |
 
 ---
 
